@@ -63,12 +63,13 @@ https://github.com/Tyler-H-US/tfcb-homework01/tree/master/messy-project-director
 
 [Link to my Lab's webpage](https://www.james-lab.org/)
 
-[Image link demonstration](https://github.com/Tyler-H-US/tfcb-homework01/blob/master/messy-project-directory/images/casent.%20%20%20-%20%200191696%20Camponotus%20darwinii%20.jpg)
+![alt text](https://github.com/Tyler-H-US/tfcb-homework01/blob/master/messy-project-directory/images/casent.%20%20%20-%20%200191696%20Camponotus%20darwinii%20.jpg)
 
 Tables | being | Demonstrated
 --- | --- | ---
-*Still* | `renders` | **nicely**
+I | `Have` | **Demonstrated**
 1 | 2 | 3
+
 
 
 This question assesses your ability to write a README with markdown formatting.
