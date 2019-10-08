@@ -49,11 +49,27 @@ Organize files into a more consistent structure. Group images into a `images/` d
 
 Commit changes and publish to your public GitHub repository. Locate the URL of this commit by clicking on "commits" from your project page on GitHub, which should be similar in format to: https://github.com/fredhutchio/tfcb_2019/commit/16b5235bd2d908c96f22297813e6aaf9f172ad41
 
-_Include the commit URL for your reorganized project here._
+https://github.com/Tyler-H-US/tfcb-homework01/tree/master/messy-project-directory
 
 ## Problem 4
 
 **10 points**
+
+# Header Demonstration
+
+1. List demenostration
+2. continued
+3. third item
+
+[Link to my Lab's webpage](https://www.james-lab.org/)
+
+[Image link demonstration](https://github.com/Tyler-H-US/tfcb-homework01/blob/master/messy-project-directory/images/casent.%20%20%20-%20%200191696%20Camponotus%20darwinii%20.jpg)
+
+Tables | being | Demonstrated
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 
 This question assesses your ability to write a README with markdown formatting.
 
@@ -61,7 +77,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-_Include the link to your `README.md` here._
+https://github.com/Tyler-H-US/tfcb-homework01/blob/master/README.md
 
 ## Problem 5
 
